@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xd12r&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&count_private=true&hide_border=true" alt="GitHub Stats" height="150"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=xd12r&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&count_private=true&hide_border=true" alt="GitHub Stats" height="150"/>-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xd12r&theme=transparent&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
 
