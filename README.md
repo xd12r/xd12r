@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,nodejs,js,linux,docker,nginx" alt="Tech skill icons" />
+  <img src="https://skillicons.dev/icons?i=php,js,wordpress,laravel,nestjs,nodejs,nginx,redis,mysql,postgres,docker,linux,debian" alt="Tech skill icons" />
 </p>
 
 <p align="center">
